@@ -1,0 +1,12 @@
+body {
+	font-family: arial, 'sans-seris';
+	padding: 4em;
+}
+
+p {
+	color:red;
+}
+
+span .text {
+	display: block;
+}
